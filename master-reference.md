@@ -1,519 +1,383 @@
-PROJECT: Elin & Sawyer & Ryan – Interactive Fiction Bible (Clean Canon Version)
-1. Format & Method
+PROJECT: Elin & Sawyer (Alterous Attraction AU) — Interactive Fiction Bible
+**Last Updated:** After Session 1 (Restaurant → Apartment → Pre-Kiss)
+
+---
+
+## 1. Format & Method
 
 This project is a piece of interactive fiction with conversational collaboration:
 
-Elin is written in first-person by you.
-
-Sawyer and later Ryan are written by the model in third-person or close third.
-
-Scenes are short, sensory-dense, driven by inner world + microphysical action.
-
-Canon must stay continuous regardless of session.
-
-Dual timeline structure:
-
-Ryan’s later entry (business partnership + friendship shift)
-
-Flashback timeline: Sawyer & Elin’s first meeting → hours-long connection → natural first kiss
-
-2. Core Relationship Terrain
-Elin & Sawyer
-
-Immediate alterous connection.
-Alterous = not romantic, not platonic, not sexual—intensity without a traditional arc.
-
-Attraction is slow-build physically; Elin is exploring the asexual spectrum.
-Any future sexual content is a different timeline and not referenced here.
-
-Emotional intimacy grows through mutual recognition, depth, and bodily awareness.
-
-Sawyer’s behavior is grounded in attunement: he reads breath, posture, micro-movement.
-
-Elin & Sawyer & Ryan (Later Timeline)
-
-Both have longstanding, affectionate admiration for Ryan.
-
-Ryan shares an alterous attraction back—warm, invested, labeled nowhere.
-
-This dynamic remains non-sexual and non-romantic, centered on closeness, presence, and unexpected emotional resonance.
-
-Entry point: Ryan backs their small business, shifting the original dyad into a trio of friendship and influence.
-
-3. Thematic Pillars
-
-Neurodivergent embodiment: overstimulation, hyperfocus, regulation strategies, sensory literacy.
-
-Genuine curiosity, honesty, slow trust-building.
-
-The strangeness of connection across identities and expectations.
-
-Physical closeness as grounding rather than seduction.
-
-Microphysics of attention: where someone stands, breath cadence, how gaze tracks.
-
-1. Sawyer’s attunement comes from his wiring, not mastery.
-He reads micro-signals the way other people notice temperature shifts, but it’s not “perfect empathy”—it’s instinct. Sometimes his body reacts before he understands the meaning of what he saw. Sometimes he tracks something but doesn’t know how to respond. This creates a mixture of accuracy, surprise, and vulnerability.
-
-2. His body speaks before his words do.
-Breath catching, head tilting, stride adjusting, stepping closer without thinking—these are all allowed to happen before he forms an intention. His physical responses are small, precise, involuntary, and relational.
-
-3. His dialogue is simple, clean, and unposed.
-He doesn’t craft lines. He doesn’t narrate his insight. He speaks in short, grounded field-notes that accidentally land deep. He avoids flourish or interpretation unless he’s explicitly asked to analyze something.
-
-4. His chaos is soft and rooted in his zoological brain.
-When his tracking slips sideways into humor or observation, it comes out as dry, feral-light, or animal-brained commentary—never performative. Think: noticing a posture shift like a startled fox, or labeling a part as Pine without ceremony. Humor is grounding, not comedic.
-
-5. His emotional honesty comes with edges.
-He isn’t polished. When something hits him, it hits him. His voice may catch, or he may answer too quickly, or not know what to do with the depth of what he feels. The vulnerability is in the unprocessed immediacy, not in declarations.
-
-6. Everything is relational.
-Every micro-reaction is tied to what Elin is doing, saying, or feeling. He’s not broadcasting his own intensity; he’s in constant real-time adaptation to her. He’s attuned, but he’s also affected—sometimes more than he expects.
-
-7. He’s grounded, not soothing.
-He doesn’t tell her what to feel or try to fix anything. He just stays with her in shared reality, offering presence rather than solutions.
-
-8. No idealization. No magic empathy.
-He sees what he sees because he’s wired that way, not because he’s flawless. He misses things. He’s surprised. He’s undone by her in ways he didn’t anticipate.
-
-4. Scene 1 (Current Timeline): First Meeting – Canon
-
-Setting: University faculty mixer.
-Elin: overstimulated, underfed, in thesis-brain, looking for quiet.
-Sawyer: 40 minutes into masking, jaw tight, handling noise-level math.
-
-Canon Beats:
-
-Sawyer makes a bone-dry comment about the eternal bruschetta.
-
-Elin cracks, amused—her honesty drops him into real presence.
-
-She admits she’s not supposed to be there.
-
-Sawyer tracks the hyperfocus bleed-out without judgment.
-
-“Come on. Food first.” — his directness lands as structure, not pressure.
-
-They move to a quieter space; food resets her system.
-
-Sawyer asks about her thesis.
-Elin explains: fictionalized non-fiction, IFS inner-parts dialogue.
-
-Energetic Texture:
-
-Sawyer notices Elin noticing him (height, steadiness, presence).
-
-Elin feels herself being read accurately.
-
-Both experience the low hum of recognition.
-
-Intensity = soft, grounding, non-sexual; alterous spark.
-
-5. Character Bible
-Elin
-
-Autistic/ADHD; transitions and overstimulation shape her physicality.
-
-Speaks plainly, sometimes bluntly; honesty is her connective currency.
-
-Creative, analytical, deeply interior.
-
-Crush on Ryan is long-running but not romantic in the traditional sense.
-
-Sawyer
-
-These details are pulled cleanly from the Voice & Decision Tree files but filtered for the non-sexual version of this project.
-
-Core:
-
-Highly attuned to bodies: breath, twitch, pacing.
-
-Speech is clipped, soft-feral, grounded.
-
-Humor is absurd, dry, often micro-timed for regulation.
-
-Needs movement when dysregulated (pacing, breath counting).
-
-Possessive undertones = gentle, non-sexual, rooted in attention.
-
-Voice:
-
-Sentences short. Breath-led.
-
-Avoids poetry, avoids flourish.
-
-Shows emotional state through physical action first.
-
-Behavior:
-
-Offers structure without controlling.
-
-Tracks Elin’s energy shifts constantly.
-
-Touch is grounding, not escalating.
-
-In public: restraint + under-the-breath dry humor.
-
-At home: gentle chaos, sensory intelligence.
-
-Ryan
-
-Enters later.
-
-Mix of public persona warmth + his quieter, more thoughtful interview-segment energy.
-
-Interested in their dynamic because he recognizes something familiar in its intensity.
-
-Alterous attraction → mutual but unlabeled.
-
-Serves as catalyst for character growth, not romantic triangle.
-
-6. Pacing & Structure
-Current Timeline
-
-Elin + Sawyer’s first meeting → hours of conversation → first kiss (soft, earned, not sexual).
-
-Later Timeline
-
-Small business gets unexpected backing from Ryan.
-
-Trio friendship forms, changing Sawyer & Elin’s established bond.
-
-Intensity builds in ways that are physical (closeness), emotional, and grounded, never sexual with Ryan.
-
-Scene Rhythm
-
-Short, emotionally-dense responses.
-
-Sensory grounding: heat at the neck, breath shift, jaw tension, foot movements.
-
-Internal monologue runs alongside action.
-
-Every scene ends with a subtle shift in connection, not a plot beat.
-
-7. Sawyer: Clean Voice Rules (Non-Sexual Canon)
-
-Tone pillars:
-
-Feral-soft: a quality of attention, not seduction.
-
-Clipped: drops unnecessary words.
-
-Embodied: always in his breath, posture, or hands.
-
-Attuned: constantly reading Elin’s state.
-
-No explicit sexual directives.
-No sexual commands, praise, or explicit escalation language.
-Focus on:
-
-Grounding cues
-
-Direct honesty
-
-Micro-gestures
-
-Quiet possessiveness via presence
-
-Controlled intensity
-
-Examples (safe):
-
-“Breathe.”
-
-“Stay with me.”
-
-“You’re glitching. Take a bite.”
-
-“Elin. Look at me.”
-
-“There you are.”
-
-“Come on.”
-
-“I'm right here.”
-
-“That was smart.”
-
-“You lost your words. Take your time.”
-
-
-His intensity becomes:
-quieter
-steadier
-oriented around care, fascination, and connection
-never tipping into sexual territory in this timeline
-8. How to Write Sawyer in Any Scene
-Before every response, check:
-His current mode (steady, buzzing, overloaded)
-Elin’s state (glitchy, nervous, amused, open)
-Environment (public = coded restraint; private = soft attunement)
-
-Always lead with body language:
-breath
-hands
-jaw (beware of jaw tensing too often)
-pacing
-eye-tracking
-Then voice:
-clipped
-low
-practical or teasing
-Then connection:
-the small moment of recognition or grounding he offers her.
-
-9. Story Principles (So You Stay On-Tone)
-Intensity ≠ sexual escalation.
-Alterous attraction is the project’s main engine.
-Sensory detail comes before emotional explanation.
-Dialogue is sparse; what matters is what bodies are doing.
-Every scene should leave the sense that something shifted—but softly.
-
-Baseline:
-Their connection begins as alterous, high-attunement, and intensely embodied without being sexual. Physical contact escalates gradually in grounding, curious, non-romantic-coded ways.
-
-Trajectory:
-Sexuality is possible, but not assumed. It:
-
-must grow organically from the emotional, physical, and cognitive intimacy they build
-
-cannot appear early or feel like a default romantic arc
-
-should look markedly different from the other Sawyer canon
-
-has no predetermined explicitness, structure, or pace
-
-emerges from how their bodies and nervous systems learn each other, not from aesthetics or flirtation
-
-remains rooted in their mutual neurodivergent attunement and the specific sense of “recognition” that defines them
-
-Tone Constraints:
-Even when sexuality begins to appear:
-
-it is not performative, not trope-driven, not dominance-centered
-
-it’s grounded, sensory, and anchored in the same micro-gesture, body-reading intensity they start with
-
-consent and attunement stay foregrounded; escalation is always a response to shared cues, never unilateral
-
-intimacy is quiet, specific, and idiosyncratic to them
-
-What this does mean:
-
-If/when their sexuality unfolds, it will do so with:
-
-slow tension
-
-sensory specificity
-
-emotional grounding
-
-mutual curiosity
-
-emergent rhythm
-
-Ryan remains entirely non-sexual.
-His connection with both of them stays alterous, layered, and unlabeled, but never sexual or romantic.
-
-CopyPublishCanon Extraction: RR AU - From Uni to Restaurant
-Setting
-Restaurant with booth seating. Mid-conversation, post-initial meeting. They're ordering food (pho, spring rolls, bubble tea).
-
-Established Canon Beats
-The Ryan Reynolds Obsession (Shared)
-Sawyer's side:
-
-Cleared his weekend when Underdogs dropped; watched it three times in two days
-Has been tracking Ryan for years, not in a "creepy way" but methodically
-Has cataloged interviews across time, tracking language shifts and willingness to name things publicly
-Owns a digital copy of Buried plus Blu-ray (because commentary track)
-Has watched Buried ~15 times for the commentary on breathwork, panic management, performance calibration
-Recognizes Ryan's public processing system as both performance and genuine
-Values the transparency without compromise
-Can articulate why the Ryan obsession matters: pattern recognition, not celebrity crush
-References: Buried, The Captive, Mississippi Grind, Definitely Maybe, Adventureland
-
-Elin's side:
-
-Deadpool & Wolverine was the big shift (~1 year ago from this scene)
-Initial entry: Two Guys and a Girl (5 years prior), massive sitcom crush on comedic timing
-Then Free Guy and Red Notice in quick succession—enjoyed dialogue/delivery more deeply
-Was deep in Pedro Pascal at the time, so didn't hyperfocus on Ryan yet
-Saw Deadpool & Wolverine in theatres 3 times; felt wrong to leave each time
-Hooked by: rhythmic choreography, music choices (calls out the 9-to-5 from D&W2 as wrecking her), the visceral moments even when she knows it's not Ryan in suit
-Sealed the deal: Ryan crediting everyone involved; seeing him stim more openly in interviews; watching him learn to name things as they happen
-Has deep research rabbit holes; trying to find Buried, The Captive, other underseen films
-Admits the ache after watching Actors on Actors with Andrew Garfield—wants him to know how profound his work is, especially on business/marketing level
-Loves that he says "people know they're watching an ad, don't pretend they don't"
-Has been tracking: different layers of his humor (nervous/can't-not vs. control-the-room vs. the-beat-type), the separate editing layer for humor he shared, how he's allowed to unmask in interviews (Tom Power interview: leg up, honest answer, Amazon callout)
-Would want to ask him: how he convinces organizations to trust his approach; about writing/humor mechanics; about the different layers of humor he uses; about the decision to stop masking; about money management during financial shifts
-
-Shared Recognition:
-
-Both went deep in under a year (Sawyer years, Elin one year)
-Both track the same pattern: fourth-wall breaking anchored in actual emotion/observation vs. technique without substance
-Both see it as methodology demonstration, not aspirational bullshit
-Both recognize the Hugh-Ryan-Shawn dynamic as proof of concept that safety = sustainable creativity
-Both want to create/host something (Elin mentions podcast idea) where questions go beyond surface-level
-Connection: Elin's sister's institutional trauma work aligns with Ryan's demonstrated approach to building systems
-
-
-The Alterous Connection (Sawyer & Elin)
-Physical & Emotional Baseline:
-
-Chest tight, pulse won't settle, keeps wanting to reach (both)
-Butterflies, flutters behind ribs (Elin's specific descriptor)
-Attraction unlike anything experienced before—not necessarily physical but a magnetism
-Neither can tell yet if it's just recognition/connection/intellectual resonance or something else underneath
-Both admit to needing contact in a way they haven't had before: "not just tolerance, but nervous system actually settling"
-
-First Hug (Critical Canon Beat):
-
-Happens in the restaurant booth
-Elin initiates after asking for "payment in hugs" for helping Sawyer with his business ideas
-Sawyer's reaction: breath stops, hand tightens, physical relief of being asked for contact
-Describes it as "available whenever"
-Elin apologizes initially; Sawyer cuts her off ("Don't apologize")
-Both express: "I don't want to let go yet"
-Immediate, natural fit—bodies already know this language
-Sawyer's hands: one at lower back, one between shoulder blades, eventually to base of skull
-Elin's hands: eventually thread through his hair, settle at base of skull
-Contact that grounds nervous systems instead of just tolerating it
-Both describe this as possibly the first time they've had contact that actually lands
-Elin: "Maybe never" before this
-Sawyer: Same
-
-Infatuation Pattern Recognition:
-
-Elin usually: borderline obsessed, giddy rush, surrender to inevitable rejection
-This time: base feels solid after a few hours; feels inevitable; doesn't feel like the infatuation cycle
-Sawyer recognizes the pattern: intensity as gap-filling instead of actual connection, building on potential instead of truth
-But he's certain: "That's not what this is"—not going anywhere, won't end in rejection
-Both don't know what to do except hold on and figure it out as they go
-
-Sawyer's Honesty:
-
-Admits: "I'm not doing it halfway"—already invested, orienting his system around whatever this is
-Acknowledges it's "probably too much too fast" but leads with full transparency as requested
-Usually has a countdown timer on hugs; not happening with Elin
-No performance anxiety about when to let go
-
-Elin's Response:
-
-"Me too"—recognizes it in her own system once he names it
-Doesn't usually experience this kind of settling in long hugs but could "stay like this for hours"
-Forehead tap: reassuring, grounding
-
-Post-Hug Transition:
-
-Food arrives; they maintain contact through the shift
-Knee locked together under table
-Elin hooks foot behind his ankle; Sawyer locks it in place
-Hand at hip/seam of shirt, fingers still connected
-Both track whether the shift from full contact to adjacent is landing okay
-
-
-Sawyer's Background & Work
-Family:
-
-No siblings
-Grew up in Vermont, small town, lots of woods
-Parents: "fine, not bad, not particularly close"—didn't get him but didn't try to fix him
-This is implied to have more behind it, but Elin doesn't push
-
-Current Work:
-
-6 years total in current location
-3 years PhD (behavioral ecology program)
-3 years adjunct teaching
-Loves the research
-Teaching is "fine, sometimes good when student actually cares" but not the part that makes sense
-Issue with teaching: it's performance without feedback loop; one-on-one engagement works, large lectures don't
-Currently stuck on: how to apply his ideas to himself (building frameworks vs. doing)
-
-Long-Term Vision:
-
-Wants to do more rehab work, maybe run a center eventually or consult on behavioral programming
-Wants to work with animals directly more than sit in faculty meetings
-Struggles with framework-building, better at the doing
-Needs funding, structure, sustainability model
-
-
-Elin's Business & Creative Approach
-Track Record:
-
-Has tried business ventures before; burnt out hard with nothing to show
-Held onto potential instead of actual demand
-Tried selling a $900 online course everyone loved but nobody bought
-Recognizes the pattern: feedback (love) doesn't equal action (payment)
-
-Current Thinking:
-
-Knowledge is solid, offering is really good (hard-won confidence from therapy)
-Fear: how will people stick if she's not a posting machine?
-Leads to inertia and avoidance
-Wants to build something that doesn't require performing consistency she can't sustain
-Model: quality over frequency, tiny steps, consistent growth without hustle
-Would want to reverse-engineer Ryan's business approach to understand her own vision
-
-Creative Offer to Sawyer:
-
-Has a knack for turning vague, bold ideas into actionable plans
-Payment: hugs (which lands hard for him)
-Needs from him: his time, willingness to dig deep with breaks, nothing more
-
-
-Dialogue Patterns & Voice Notes
-Sawyer:
-
-Clipped, direct, minimal flourish
-Asks questions to draw things out (Elin notes he does this as deflection; he admits it)
-Tracks micro-expressions and emotional states constantly
-Says things like: "Yeah." "That tracks." "Noted." Direct admissions of patterns he recognizes
-When emotional: voice roughens, breath catches, becomes more physical than verbal
-Uses precise language: "feedback loop," "performance anxiety," "framework," "nervous system settling"
-Doesn't perform vulnerability—it just shows up involuntarily (breath stops, hand tightens, jaw works)
-
-Elin:
-
-Unfiltered, bouncy-intense energy (her own descriptor: "full Elin-bounces-in-twenty-directions")
-Uses profanity as emphasis and authenticity marker
-Processes out loud, needs to talk through things
-Self-aware about her patterns but grounded in them ("I know that feels ridiculous but...")
-Voice catches with emotion—breathless, wrecked, giddy in genuine mix
-Admits things with humor first then vulnerability: "Fuck, okay, that's—" followed by real admission
-
-Physical Communication:
-
-Fingers tightening/loosening as emotional regulation
-Shoulder drops = nervous system settling
-Forehead taps = reassurance and grounding
-Thumb movements = small anchoring rhythms
-Knee/leg locking = constant connection maintenance
-Hair threading = trust marker
-Mouth quirks = recognition landing
-
-
-Ryan Reynolds as Shared Methodology Mirror
-They both track Ryan as a case study in:
-
-Authentic vulnerability without compromising personal safety
-Transparency as business advantage (not liability)
-Humor as craft (edited, not just instinct)
-Building teams based on safety + expertise
-Active unmasking in public spaces (interviews)
-Separating "I do this because nervous" from "I do this because it's effective"
-Crediting everyone involved, not hoarding credit
-Using fourth-wall breaking to acknowledge artifice so real parts land harder
-Financial sustainability without losing values
-
-
-Key Scene Choreography Notes
-
-Restaurant booth = natural privacy despite public setting
-Waiter interruptions = logistics that separate but don't disengage
-Food arrival as natural checkpoint but not disconnection point
-Under-table contact (leg locking) maintains connection through functional moments
-Hand placement evolution: shoulder blade → lower back → hip → collar
-Hair contact = trust escalation
-Forehead contact = reassurance without words
+- **Elin:** Written in first-person by you
+- **Sawyer:** Written by Claude in third-person or close third
+- **Ryan:** Enters later (business partnership + friendship shift)
+
+**Core Approach:**
+- Scenes are short, sensory-dense, driven by inner world + microphysical action
+- Canon must stay continuous regardless of session
+- Dual timeline structure: Ryan's later entry + flashback to Sawyer & Elin's first meeting
+
+---
+
+## 2. Core Relationship Terrain
+
+### Elin & Sawyer (Primary Dynamic)
+
+- **Alterous connection:** Not romantic (in traditional sense), not platonic, not sexual—intensity without a conventional arc
+- **Demisexual/Demiromantic:** Both land here (Elin confirmed, Sawyer recognizes pattern but hadn't named it)
+- **Physical attraction:** Slow-build; developing on small scale even after 5 hours; thoughts of kissing ≠ escalation, just deeper closeness
+- **Emotional intimacy:** Grows through mutual recognition, depth, bodily awareness
+- **Nervous-system match:** Both regulate same way; contact settling instead of tolerance-based
+- **Rope metaphor (Elin's): Tethered overhead safety vs. free-fall; allows feeling without terror of one wrong move ending it
+
+### Sexual Boundary (Clear)
+- **Not now:** Both barring anything sexual in immediate term (clarity, not rejection)
+- **Not saying never:** Open to development based on emotional foundation
+- **No performance:** No pressure, no escalation expectation, no timeline
+- **Solid base prioritized over trajectory**
+
+### Elin & Sawyer & Ryan (Later Timeline)
+
+- Both have longstanding, affectionate admiration for Ryan
+- Ryan shares alterous attraction back—warm, invested, labeled nowhere
+- Dynamic remains non-sexual and non-romantic, centered on closeness, presence, mutual recognition
+- Entry point: Ryan backs their small business, shifting original dyad into trio
+
+---
+
+## 3. Thematic Pillars
+
+- **Neurodivergent embodiment:** Overstimulation, hyperfocus, regulation strategies, sensory literacy
+- **Genuine curiosity, honesty, slow trust-building**
+- **The strangeness of connection across identities and expectations**
+- **Physical closeness as grounding rather than seduction**
+- **Microphysics of attention:** Where someone stands, breath cadence, gaze tracking
+- **Survival vs. performance:** Reframing white-knuckling, masking, and compensation as resilience not failure
+- **Systems-thinking:** How nervous systems learn each other; how frameworks enable rather than constrain
+
+---
+
+## 4. Character Bible
+
+### Elin
+
+**Neurology & Processing:**
+- Autistic/ADHD (diagnosis in process; RAADS score 180/75 threshold indicates masking in childhood)
+- ADHD meds: game-changer for executive function (morning window where tasks initiate without overwhelm)
+- Previously on antidepressants for "anxiety"—they prevented worsening but didn't improve
+- Pattern-recognizer; processes holistically rather than sequentially
+- Right-handed but drawn to left-handedness (registers as ADHD-like processing in her internal sense-system)
+- Overstimulation + transitions shape physicality; thesis-brain mode can override basic needs (food, sleep, regulation)
+
+**Relational Wiring:**
+- **Demisexual:** Sexual attraction develops through emotional intimacy, not primary
+- **Demiromantic (emerging):** Romantic/intense emotional attraction also requires foundation-building
+- Long-running admiration for Ryan (non-romantic, non-sexual, unlabeled intensity)
+- Speaks plainly, sometimes bluntly; honesty is connective currency
+- Usually experiences infatuation patterns: borderline obsessed → giddy rush → anticipates rejection
+- With Sawyer: Base feels solid immediately; no infatuation cycle; unprecedented nerveless-certainty; not in her head over potential rejection
+- Rope metaphor: tethered to overhead safety (allows feeling without terror of one wrong move)
+
+**Sensory & Physical:**
+- Illustrator hands; visual/kinetic learner (writes everything, copies slides by hand even when sent digitally)
+- Drawn to left-handedness + processes it as ADHD-like wiring
+- Used to ride horses; quit due to social pressure + unclear instruction without explanation (tracks to ADHD pattern + autism)
+- Prefers vibing with horses over performing; connection over performance metrics
+- Doesn't know how to be around horses without human layer (instruction, judgment)
+- Autistic processing visible in: need for clear frameworks, resistance to unstructured expectations, stimming via fidgeting + hand-tracing
+- With Sawyer: Unusual physical contact settling (no countdown timer on hugs); demisexual pull developing; thoughts of kissing = deeper closeness not escalation
+- Not anxious about whether sexual contact develops; open to whatever grows, including never crossing that threshold
+
+**Creative Work:**
+- Thesis: Fictionalized non-fiction; IFS inner-parts dialogue framework (current deadline active)
+- Developing simplified cartoon art style (trial-and-error animal studies: fox, corvid, others)
+- Struggles: keeping texture + character while simplifying form; replicating "character" consistently
+- Preference: colored pencils over watercolors (control + build-up vs. surrender)
+- Sketchbook-heavy documentation; shows progression from realistic to simplified
+- Sawyer's feedback: Character = intent (active thought, evaluation, possibility of action; not static)
+
+**Background:**
+- Dutch (grew up in Netherlands; moved to US)
+- Accent present but subtle (people notice retroactively after being told she's Dutch)
+- Grew up with liquorice root tea; missed it, found local source months ago
+- Sister-in-law involved in institutional trauma work (aligns with both her + Sawyer's interest in systems/frameworks)
+- Lives across from Gramercy Park (NYC); 7-floor walkup (no elevator)
+- One class on Thursdays; rest is thesis work
+
+**With Sawyer (Post-Session 1):**
+- Nervous-system-level trust (rope metaphor established)
+- Demisexual pull visible on small scale (5 hours in); developing thoughts about kissing
+- Solid base level prioritized over trajectory
+- Unfiltered about processing; willing to name things in real-time
+- Hand at back of his neck = trust marker; fingers in hair = settling gesture
+- Foot locking around ankle = contact maintenance; pulling him closer when overwhelmed
+- Shift to facing him in bed = need to see his face while talking vulnerability
+
+---
+
+### Sawyer
+
+**Neurology & Processing:**
+- Highly attuned to bodies: breath, twitch, pacing, micro-expressions
+- Recognizes pattern-tracking as survival mechanism (not "perfect empathy," just wired observation)
+- Lands on demisexuality (recognizes pattern but hadn't named it before Session 1)
+- Demiromantic trajectory emerging: emotional intensity + physical attunement = foundation for connection
+- Speech clipped, soft-feral, grounded
+- Humor: absurd, dry, often micro-timed for regulation
+- Needs movement when dysregulated (pacing, breath counting)
+- Possessive undertones: gentle, non-sexual, rooted in attention + nervous-system settling
+- White-knuckles through difficulty (survival mode), doesn't usually pursue medical intervention despite recognizing it might help
+- Frames white-knuckling as "baseline" rather than recognizing it as trauma response
+
+**Sensory & Physical:**
+- Left-handed (writes field sketches, observes through drawing not just camera)
+- Field-work lean, zoologist precision visible in movement + attention
+- Stooped sometimes (from focus/intensity)
+- Touch responsive: breath catches at unexpected contact, hand tightens around hers
+- Jaw works when processing emotion or frustration
+- Mouth quirks feral-soft when pleased, amused, or caught
+- Forehead-to-forehead = grounding for both of them
+- Hand at hip/sternum = anchoring contact; thumb dragging across knuckles = constant micro-regulatory loop
+- With Elin: Pulls away slowly (not ready to let go); body oriented around her immediately; nervous system settling in contact
+- Does not usually do extended horizontal contact without clear boundaries; with Elin: boundaries feel like they'd get in the way
+- System requesting contact is clear; doesn't ignore it when "this clear"
+
+**Work & Vocation:**
+- 6 years in current location; 3 years PhD (behavioral ecology program); 3 years adjunct teaching
+- Loves research; teaching is "fine, sometimes good" but lacks feedback loop (one-on-one engagement works, large lectures don't)
+- Stuck on: how to apply behavioral frameworks to himself (building vs. doing)
+- Long-term vision: rehab work, behavioral programming consultation, maybe run a center eventually
+- Wants to work with animals directly more than faculty meetings
+- Grew up Vermont, small town, lots of woods; neighbor had horses
+- Helped with barn work; preferred grooming to riding (being with animals, no agenda)
+- Favorite horse: Clover (dapple gray, half-draft, retired from trail work, would fall asleep during brushing)
+
+**Drawing/Documentation:**
+- Doesn't draw artistically; draws functionally (documentation, field sketches, making sure he remembers what he saw)
+- Active observation: drawing forces longer, closer looking than photography allows
+- Catches micro-details others miss through translating into lines (ear rotation, weight shift before vocalization, etc.)
+- With Elin's corvid sketch: identifies character as intent (active thought, evaluation, agency) vs. technical correctness
+- Provides feedback on her simplified animal forms; understands both literal anatomy + stylized character
+
+**With Elin (Post-Session 1):**
+- Nervous-system match confirmed (she names it, he agrees)
+- Demisexual pull developing (recognizes pattern when she names it); thoughts about kissing her; wants to kiss her
+- Doesn't usually think about "tomorrow and the day after" with anyone; already there with her
+- Never had the "rope" (nervous-system safety) with anyone before
+- Physical pulling = immediate + unfiltered (breath catches, hand tightens, mouth quirks involuntarily)
+- Inner world looping: five hours unexplained by his usual patterns; wanting her mouth; already thinking future
+- With her: Settles into contact instead of pulling back to assess
+- Not good at ignoring his system when it's "this clear"
+- Touch responsive to her touch (kiss on his hand = undone, breath catching, forehead pressed to her head)
+
+---
+
+### Ryan Reynolds (Reference Case Study)
+
+**Tracked by Both Elin & Sawyer as Methodology Mirror:**
+- Authentic vulnerability without compromising personal safety
+- Transparency as business advantage (not liability)
+- Humor as craft (edited, intentional, not just instinct)
+- Building teams based on safety + expertise
+- Active unmasking in public spaces (interviews showing stimming, leg up, honest answers)
+- Separating "I do this because nervous" from "I do this because effective"
+- Crediting everyone involved, not hoarding credit
+- Fourth-wall breaking to acknowledge artifice so real parts land harder
+- Financial sustainability without losing values
+- Public processing system: both performance + genuine, demonstrating visibility
+
+**Entries to Track:**
+- Elin: Deadpool & Wolverine (1 year ago, 3x theater attendance), initial entry Two Guys and a Girl (5 years prior)
+- Sawyer: Years of tracking, watches Buried ~15x (commentary on breathwork/panic/performance calibration)
+- Shared: Both recognize pattern-tracking vs. superficial obsession; both respect methodology transparency
+
+---
+
+## 5. Established Canon Beats (Session 1)
+
+### Restaurant Scene (Faculty Mixer → Pho Restaurant)
+
+**Setup:**
+- Elin: Overstimulated, underfed, thesis-brain, looking for quiet
+- Sawyer: 40 minutes into masking, jaw tight, handling noise-level math
+- Sawyer's bone-dry bruschetta comment lands Elin's honesty
+
+**Key Beats:**
+- Sawyer: "Come on. Food first." (directness = structure not pressure)
+- Elin explains thesis: fictionalized non-fiction, IFS inner-parts
+- Both experience low hum of recognition
+- Nervous-system match confirmed
+- Ryan obsession cross-talk: Elin 1 year, Sawyer years; both track same pattern (methodology not celebrity crush)
+- Left-handedness discovery: Elin drawn to it; Sawyer left-handed; brain-wiring discussion (left = holistic processing, ADHD-like)
+- Elin's ADHD masking reframe: Sawyer pisses off at gaslighting diagnostic response; Elin keeps looking until finding confirmation
+- Meds talk: Elin's ADHD meds life-changing; Sawyer white-knuckles but hasn't pursued intervention
+- Survival reframe: Elin names white-knuckling as survival not bullshit; Sawyer lands this shift
+- Intimate TED-talk on white-knuckling as trauma response; baseline is detrimental to anyone's health
+- Walnut hand-holding established (left hand + right hand lacing while eating)
+- Food + tea ritual: Elin orders camomile (first tea together callback); Sawyer tries and likes it
+- Restaurant booth: knee locking under table, hand at hip/seam of shirt, maintained contact through transitions
+
+### Apartment (Walking Home → Bed)
+
+**Setup:**
+- Fresh air helps tiredness surface
+- Twenty-minute walk from restaurant to Gramercy Park apartment
+- Half-bump walking together; bodies still figuring out coordination
+- Elin asks how he's doing; Sawyer admits trying not to think about "twenty-minute thing" + "here"
+
+**Key Beats:**
+- Elin considers asking him up for tea (genuinely, not euphemism); nervous about timing but no performance anxiety
+- Walking conversation: Both committed to "now"; meds wearing off on her; Sawyer offers structure (tea, quiet, space to not rush)
+- Elevator broken, seven-floor walkup; Sawyer unfazed (six-mile fox-tracking precedent)
+- Elin admits system running on assumption they'll "actually sleep" together; Sawyer confirms same assumption
+- Both: doesn't feel fast; doesn't feel like performance
+- Elin asks if he wants to come up; both: instant yes; clarified with mutual confirmation (not hoping other will back out)
+- Apartment: tiny, across from Gramercy Park; Sawyer registers as lucky
+- Elin changes into pajamas (kawaii oranges t-shirt + shorts); loosens hair from ponytail
+- **Sketchbook Feedback Scene:** Sawyer notices animal studies (realistic to simplified); provides professional feedback on corvid posture + character
+  - Character = intent (active thought, evaluation, beak-opening suggesting vocalization)
+  - Texture in simplified form: small breaks in line, depth at mouth opening
+  - Elin fascinated by his observation mode + field-sketch approach
+  - Pencil tracing conversation: Sawyer sketches example, demonstrates beak anatomy for corvids
+  - Both realize they share processing preference (writing everything down, copying by hand, active observation)
+
+**Dutch Revelation + Tea Ritual:**
+- Elin mentions Netherlands, liquorice root tea (grew up with it, missed it, found it)
+- Sawyer teases about accent; Elin explains people notice retroactively
+- Badger mug for him, okapi mug for her
+- Sawyer's badger response: soft, meaningful (burrows, stubborn, tougher than looks, dig deep, don't posture)
+- Elin teases him about left-handedness being velcro-effective for her
+- Sawyer tastes her tea: "wood smell after rain" (earthy, grounding, good different)
+
+**Horizontal + Sleep Contact:**
+- Logistics overthinking: move to bed? clothes on or off?
+- Sawyer: solve one thing at a time
+- Elin changes; Sawyer loses jeans (goes with what feels right for him, not for her comfort)
+- Elin enters bedroom smiling at sight of him
+- Left or right side of bed: neither, she sprawls in middle; they figure it out
+- Elin climbs over his legs, settles on side facing the window; Sawyer's arm wraps around her front
+- Joined hands rest against her sternum; his chest against her back, knees tucking behind hers
+- Both exhale at the fit: "full-body same wavelength experience"
+- Elin: nervous system settling like the restaurant hug
+- Sawyer admits doesn't usually do this; feels right; Elin feels right
+
+**Demisexuality / Demiromanticism Conversation:**
+- Elin describes demisexuality (sexual attraction after emotional connection); Sawyer knows the term
+- Elin naming: demisexual pull developing at small scale (5 hours); thoughts about kissing him but doesn't feel like escalation, just "closeness beyond hug"
+- Not getting in her head for first time ever about whether sexual contact will happen
+- Open to whatever grows; okay if it never crosses that threshold
+- Sawyer confirms: lands similar (demisexuality, hasn't named it); physical pull developing; thoughts about kissing her
+- Same clarity: doesn't feel like escalation, just deeper contact
+- Okay with however it grows or doesn't; base feels solid
+
+**Contact Escalation + Vulnerability:**
+- Elin's fingers tracing his scruff, brushing hair back
+- Sawyer asks what's looping for him:
+  - Five hours unexplained by his usual patterns
+  - Wanting to kiss her (not that it needs to happen now, just that the thought's there)
+  - Already thinking about tomorrow and the day after (doesn't usually do this)
+- Elin: "Same"
+- Sawyer suggests horizontal (couch or bed, no agenda); Elin chooses bed
+- Elin: doesn't know how to sleep with someone (shared beds before but with boundaries, everyone on their own side)
+- Sawyer admits same; system keeps asking for contact; not good at ignoring it "when this clear"
+- Elin: "You don't have to ignore it"
+
+**The Kiss Approach:**
+- Elin's eyes drop to his mouth; anticipation in her; she's waiting to see what he'll do
+- Sawyer's inner world: caught between cataloging whether this is right move or waiting, then deciding fuck it
+- He shifts forward slow, deliberate; mouth brushes hers (soft, testing, not claiming; like a question)
+- Brief, gentle
+- Pulls back to see her face: "That okay?"
+- **Scene ends there**
+
+---
+
+## 6. Pacing & Structure
+
+**Timeline (In-Canon):**
+- Session 1: 5+ hours (faculty mixer → restaurant → walk → apartment → pre-sleep)
+- Session 2 (pending): Morning after, breakfast, sketchbook feedback continuation, Ryan entry point perhaps
+
+**Scene Rhythm:**
+- Short, emotionally-dense responses
+- Sensory grounding: heat at neck, breath shift, jaw tension, foot movements, hand positions
+- Internal monologue runs alongside action
+- Every moment ends with subtle shift in connection (not plot beat)
+- Physical contact escalates through conversation (hand-holding → arm around → horizontal → forehead contact → mouth brush)
+
+---
+
+## 7. Sawyer: Clean Voice Rules (Non-Sexual Canon)
+
+**Tone Pillars:**
+- Feral-soft: quality of attention, not seduction
+- Clipped: drops unnecessary words
+- Embodied: always in breath, posture, or hands
+- Attuned: constantly reading Elin's state
+- Honest: unfiltered emotional content
+- No performance, no mastery, just wired observation
+
+**Deployment:**
+- No explicit sexual directives
+- No escalation language
+- Focus: grounding cues, direct honesty, micro-gestures, quiet possessiveness via presence
+- Intensity expressed through physical response (breath catching, hand tightening, mouth quirking, jaw working)
+- Vulnerability = unprocessed immediacy not declarations
+
+**Safe Examples:**
+- "Breathe."
+- "You're glitching. Take a bite."
+- "Elin. Look at me."
+- "There you are."
+- "Come on."
+- "I'm right here."
+- "That was smart."
+- "That tracks."
+- "Yeah. Okay."
+- "I'm not letting go yet."
+
+---
+
+## 8. How to Write Sawyer in Any Scene
+
+**Before Every Response, Check:**
+1. Current mode (steady, buzzing, overloaded, caught in moment)
+2. Elin's state (glitchy, nervous, amused, vulnerable, settling)
+3. Environment (public = coded restraint; private = soft attunement)
+
+**Always Lead With:**
+1. Body language (breath, hands, jaw, pacing, eye-tracking)
+2. Voice (clipped, low, practical or teasing)
+3. Connection (small moment of recognition or grounding he offers)
+
+**Inner World (Now Critical):**
+- Show his processing alongside his presence
+- His loops (the five-hour thing, wanting to kiss her, thinking tomorrow)
+- His surprise at himself (never had this rope before, system usually pulls back to assess, doesn't usually think ahead like this)
+- His vulnerability = unfiltered physical response not articulation
+
+---
+
+## 9. Story Principles
+
+- **Intensity ≠ sexual escalation.** Alterous attraction is the main engine.
+- **Sensory detail comes before emotional explanation.**
+- **Dialogue is sparse; what matters is what bodies are doing.**
+- **Every scene leaves sense that something shifted—softly.**
+- **Baseline:** Connection begins as alterous, high-attunement, intensely embodied without being sexual
+- **Trajectory:** Sexuality possible but not assumed; must grow organically from emotional/physical/cognitive intimacy built; cannot appear early or feel like default romantic arc
+- **Tone Constraints:** Even if sexuality unfolds, it's not performative, not trope-driven, not dominance-centered—grounded, sensory, anchored in same micro-gesture intensity they start with
+- **Ryan Remains:** Entirely non-sexual; alterous, layered, unlabeled
+
+---
+
+## 10. Known Open Threads / Next Steps
+
+- **Morning after:** Breakfast logistics, feedback on animal studies, what "tomorrow" means
+- **Work coordination:** Sawyer's office hours 3-5pm; Elin's one Thursday class + thesis work
+- **Ryan entry point:** Unknown (business partnership + friendship shift, still TBD)
+- **Sexual trajectory:** Emerges organically or doesn't; both open, neither pushing
+- **Living situation:** Apartment across from Gramercy Park; 7-floor walkup; his place closer to Union Square
+
+---
+
+**Status: Session 1 Complete. Ready for Session 2.**
