@@ -1,312 +1,307 @@
-PROJECT: Elin & Sawyer (Alterous Attraction AU) — Interactive Fiction Bible
-**Last Updated:** After Session 1 (Restaurant → Apartment → Pre-Kiss)
+# Scenes Canon Index — Alterous Attraction AU
+**Living Document | Updates After Each Session**
 
 ---
 
-## 1. Format & Method
+## Scene 1: Faculty Mixer → Restaurant (Full Arc)
 
-This project is a piece of interactive fiction with conversational collaboration:
+**Timeline:** Session 1, ~5+ hours (evening through night)
 
-- **Elin:** Written in first-person by you
-- **Sawyer:** Written by Claude in third-person or close third
-- **Ryan:** Enters later (business partnership + friendship shift)
-
-**Core Approach:**
-- Scenes are short, sensory-dense, driven by inner world + microphysical action
-- Canon must stay continuous regardless of session
-- Dual timeline structure: Ryan's later entry + flashback to Sawyer & Elin's first meeting
-
----
-
-## 2. Core Relationship Terrain
-
-### Elin & Sawyer (Primary Dynamic)
-
-- **Alterous connection:** Not romantic (in traditional sense), not platonic, not sexual—intensity without a conventional arc
-- **Demisexual/Demiromantic:** Both land here (Elin confirmed, Sawyer recognizes pattern but hadn't named it)
-- **Physical attraction:** Slow-build; developing on small scale even after 5 hours; thoughts of kissing ≠ escalation, just deeper closeness
-- **Emotional intimacy:** Grows through mutual recognition, depth, bodily awareness
-- **Nervous-system match:** Both regulate same way; contact settling instead of tolerance-based
-- **Rope metaphor (Elin's): Tethered overhead safety vs. free-fall; allows feeling without terror of one wrong move ending it
-
-### Sexual Boundary (Clear)
-- **Not now:** Both barring anything sexual in immediate term (clarity, not rejection)
-- **Not saying never:** Open to development based on emotional foundation
-- **No performance:** No pressure, no escalation expectation, no timeline
-- **Solid base prioritized over trajectory**
-
-### Elin & Sawyer & Ryan (Later Timeline)
-
-- Both have longstanding, affectionate admiration for Ryan
-- Ryan shares alterous attraction back—warm, invested, labeled nowhere
-- Dynamic remains non-sexual and non-romantic, centered on closeness, presence, mutual recognition
-- Entry point: Ryan backs their small business, shifting original dyad into trio
-
----
-
-## 3. Thematic Pillars
-
-- **Neurodivergent embodiment:** Overstimulation, hyperfocus, regulation strategies, sensory literacy
-- **Genuine curiosity, honesty, slow trust-building**
-- **The strangeness of connection across identities and expectations**
-- **Physical closeness as grounding rather than seduction**
-- **Microphysics of attention:** Where someone stands, breath cadence, gaze tracking
-- **Survival vs. performance:** Reframing white-knuckling, masking, and compensation as resilience not failure
-- **Systems-thinking:** How nervous systems learn each other; how frameworks enable rather than constrain
-
----
-
-## 4. Character Bible
-
-### Elin
-
-**Neurology & Processing:**
-- Autistic/ADHD (diagnosis in process; RAADS score 180/75 threshold indicates masking in childhood)
-- ADHD meds: game-changer for executive function (morning window where tasks initiate without overwhelm)
-- Previously on antidepressants for "anxiety"—they prevented worsening but didn't improve
-- Pattern-recognizer; processes holistically rather than sequentially
-- Right-handed but drawn to left-handedness (registers as ADHD-like processing in her internal sense-system)
-- Overstimulation + transitions shape physicality; thesis-brain mode can override basic needs (food, sleep, regulation)
-
-**Relational Wiring:**
-- **Demisexual:** Sexual attraction develops through emotional intimacy, not primary
-- **Demiromantic (emerging):** Romantic/intense emotional attraction also requires foundation-building
-- Long-running admiration for Ryan (non-romantic, non-sexual, unlabeled intensity)
-- Speaks plainly, sometimes bluntly; honesty is connective currency
-- Usually experiences infatuation patterns: borderline obsessed → giddy rush → anticipates rejection
-- With Sawyer: Base feels solid immediately; no infatuation cycle; unprecedented nerveless-certainty; not in her head over potential rejection
-- Rope metaphor: tethered to overhead safety (allows feeling without terror of one wrong move)
-
-**Sensory & Physical:**
-- Illustrator hands; visual/kinetic learner (writes everything, copies slides by hand even when sent digitally)
-- Drawn to left-handedness + processes it as ADHD-like wiring
-- Used to ride horses; quit due to social pressure + unclear instruction without explanation (tracks to ADHD pattern + autism)
-- Prefers vibing with horses over performing; connection over performance metrics
-- Doesn't know how to be around horses without human layer (instruction, judgment)
-- Autistic processing visible in: need for clear frameworks, resistance to unstructured expectations, stimming via fidgeting + hand-tracing
-- With Sawyer: Unusual physical contact settling (no countdown timer on hugs); demisexual pull developing; thoughts of kissing = deeper closeness not escalation
-- Not anxious about whether sexual contact develops; open to whatever grows, including never crossing that threshold
-
-**Creative Work:**
-- Thesis: Fictionalized non-fiction; IFS inner-parts dialogue framework (current deadline active)
-- Developing simplified cartoon art style (trial-and-error animal studies: fox, corvid, others)
-- Struggles: keeping texture + character while simplifying form; replicating "character" consistently
-- Preference: colored pencils over watercolors (control + build-up vs. surrender)
-- Sketchbook-heavy documentation; shows progression from realistic to simplified
-- Sawyer's feedback: Character = intent (active thought, evaluation, possibility of action; not static)
-
-**Background:**
-- Dutch (grew up in Netherlands; moved to US)
-- Accent present but subtle (people notice retroactively after being told she's Dutch)
-- Grew up with liquorice root tea; missed it, found local source months ago
-- Sister-in-law involved in institutional trauma work (aligns with both her + Sawyer's interest in systems/frameworks)
-- Lives across from Gramercy Park (NYC); 7-floor walkup (no elevator)
-- One class on Thursdays; rest is thesis work
-
-**With Sawyer (Post-Session 1):**
-- Nervous-system-level trust (rope metaphor established)
-- Demisexual pull visible on small scale (5 hours in); developing thoughts about kissing
-- Solid base level prioritized over trajectory
-- Unfiltered about processing; willing to name things in real-time
-- Hand at back of his neck = trust marker; fingers in hair = settling gesture
-- Foot locking around ankle = contact maintenance; pulling him closer when overwhelmed
-- Shift to facing him in bed = need to see his face while talking vulnerability
-
----
-
-### Sawyer
-
-**Neurology & Processing:**
-- Highly attuned to bodies: breath, twitch, pacing, micro-expressions
-- Recognizes pattern-tracking as survival mechanism (not "perfect empathy," just wired observation)
-- Lands on demisexuality (recognizes pattern but hadn't named it before Session 1)
-- Demiromantic trajectory emerging: emotional intensity + physical attunement = foundation for connection
-- Speech clipped, soft-feral, grounded
-- Humor: absurd, dry, often micro-timed for regulation
-- Needs movement when dysregulated (pacing, breath counting)
-- Possessive undertones: gentle, non-sexual, rooted in attention + nervous-system settling
-- White-knuckles through difficulty (survival mode), doesn't usually pursue medical intervention despite recognizing it might help
-- Frames white-knuckling as "baseline" rather than recognizing it as trauma response
-
-**Sensory & Physical:**
-- Left-handed (writes field sketches, observes through drawing not just camera)
-- Field-work lean, zoologist precision visible in movement + attention
-- Stooped sometimes (from focus/intensity)
-- Touch responsive: breath catches at unexpected contact, hand tightens around hers
-- Jaw works when processing emotion or frustration
-- Mouth quirks feral-soft when pleased, amused, or caught
-- Forehead-to-forehead = grounding for both of them
-- Hand at hip/sternum = anchoring contact; thumb dragging across knuckles = constant micro-regulatory loop
-- With Elin: Pulls away slowly (not ready to let go); body oriented around her immediately; nervous system settling in contact
-- Does not usually do extended horizontal contact without clear boundaries; with Elin: boundaries feel like they'd get in the way
-- System requesting contact is clear; doesn't ignore it when "this clear"
-
-**Work & Vocation:**
-- 6 years in current location; 3 years PhD (behavioral ecology program); 3 years adjunct teaching
-- Loves research; teaching is "fine, sometimes good" but lacks feedback loop (one-on-one engagement works, large lectures don't)
-- Stuck on: how to apply behavioral frameworks to himself (building vs. doing)
-- Long-term vision: rehab work, behavioral programming consultation, maybe run a center eventually
-- Wants to work with animals directly more than faculty meetings
-- Grew up Vermont, small town, lots of woods; neighbor had horses
-- Helped with barn work; preferred grooming to riding (being with animals, no agenda)
-- Favorite horse: Clover (dapple gray, half-draft, retired from trail work, would fall asleep during brushing)
-
-**Drawing/Documentation:**
-- Doesn't draw artistically; draws functionally (documentation, field sketches, making sure he remembers what he saw)
-- Active observation: drawing forces longer, closer looking than photography allows
-- Catches micro-details others miss through translating into lines (ear rotation, weight shift before vocalization, etc.)
-- With Elin's corvid sketch: identifies character as intent (active thought, evaluation, agency) vs. technical correctness
-- Provides feedback on her simplified animal forms; understands both literal anatomy + stylized character
-
-**With Elin (Post-Session 1):**
-- Nervous-system match confirmed (she names it, he agrees)
-- Demisexual pull developing (recognizes pattern when she names it); thoughts about kissing her; wants to kiss her
-- Doesn't usually think about "tomorrow and the day after" with anyone; already there with her
-- Never had the "rope" (nervous-system safety) with anyone before
-- Physical pulling = immediate + unfiltered (breath catches, hand tightens, mouth quirks involuntarily)
-- Inner world looping: five hours unexplained by his usual patterns; wanting her mouth; already thinking future
-- With her: Settles into contact instead of pulling back to assess
-- Not good at ignoring his system when it's "this clear"
-- Touch responsive to her touch (kiss on his hand = undone, breath catching, forehead pressed to her head)
-
----
-
-### Ryan Reynolds (Reference Case Study)
-
-**Tracked by Both Elin & Sawyer as Methodology Mirror:**
-- Authentic vulnerability without compromising personal safety
-- Transparency as business advantage (not liability)
-- Humor as craft (edited, intentional, not just instinct)
-- Building teams based on safety + expertise
-- Active unmasking in public spaces (interviews showing stimming, leg up, honest answers)
-- Separating "I do this because nervous" from "I do this because effective"
-- Crediting everyone involved, not hoarding credit
-- Fourth-wall breaking to acknowledge artifice so real parts land harder
-- Financial sustainability without losing values
-- Public processing system: both performance + genuine, demonstrating visibility
-
-**Entries to Track:**
-- Elin: Deadpool & Wolverine (1 year ago, 3x theater attendance), initial entry Two Guys and a Girl (5 years prior)
-- Sawyer: Years of tracking, watches Buried ~15x (commentary on breathwork/panic/performance calibration)
-- Shared: Both recognize pattern-tracking vs. superficial obsession; both respect methodology transparency
-
----
-
-## 5. Established Canon Beats (Session 1)
-
-### Restaurant Scene (Faculty Mixer → Pho Restaurant)
-
-**Setup:**
-- Elin: Overstimulated, underfed, thesis-brain, looking for quiet
-- Sawyer: 40 minutes into masking, jaw tight, handling noise-level math
-- Sawyer's bone-dry bruschetta comment lands Elin's honesty
+**Locations:** University faculty mixer → quieter space → pho restaurant (booth) → walking home (20 mins) → apartment entry
 
 **Key Beats:**
-- Sawyer: "Come on. Food first." (directness = structure not pressure)
-- Elin explains thesis: fictionalized non-fiction, IFS inner-parts
-- Both experience low hum of recognition
-- Nervous-system match confirmed
-- Ryan obsession cross-talk: Elin 1 year, Sawyer years; both track same pattern (methodology not celebrity crush)
-- Left-handedness discovery: Elin drawn to it; Sawyer left-handed; brain-wiring discussion (left = holistic processing, ADHD-like)
-- Elin's ADHD masking reframe: Sawyer pisses off at gaslighting diagnostic response; Elin keeps looking until finding confirmation
-- Meds talk: Elin's ADHD meds life-changing; Sawyer white-knuckles but hasn't pursued intervention
-- Survival reframe: Elin names white-knuckling as survival not bullshit; Sawyer lands this shift
-- Intimate TED-talk on white-knuckling as trauma response; baseline is detrimental to anyone's health
-- Walnut hand-holding established (left hand + right hand lacing while eating)
-- Food + tea ritual: Elin orders camomile (first tea together callback); Sawyer tries and likes it
-- Restaurant booth: knee locking under table, hand at hip/seam of shirt, maintained contact through transitions
+1. **Opening (Faculty Mixer):** Elin overstimulated, thesis-brain, looking for quiet; Sawyer masking (40 min), jaw tight; dry comment lands her honesty
+2. **Food Reset:** Sawyer redirects ("Come on. Food first"); Elin's system resets; both recognize each other
+3. **Thesis Talk:** Elin explains fictionalized non-fiction + IFS inner-parts; recognition deepens
+4. **Ryan Obsession Parallel:** Both tracked Ryan for years/months; same pattern-recognition, not celebrity crush; methodology mutual
+5. **Left-Handedness Discovery:** Elin drawn to left-handedness; Sawyer left-handed; brain-wiring discussion (holistic processing)
+6. **Medical/Survival Reframe:** ADHD diagnosis, masking, meds, white-knuckling; Sawyer validates; Elin reframes as survival
+7. **Hand-Holding Escalation:** Walnut hand-lacing while eating; contact maintained through functional moments
+8. **Tea Ritual:** Camomile ordered; Sawyer tries; callback to first coffee date; grounding anchor established
+9. **Restaurant Physics:** Knee-locking under table, hand at hip/seam of shirt, constant micro-contact maintenance
+10. **Walking Conversation:** Fresh air helps tiredness surface; Sawyer admits thinking about twenty-minute timeline; both "here"
+11. **Asymptotic Approach (Walking):** Bodies figuring out coordination; half-bumps; natural rhythm establishing
+12. **Apartment Arrival:** Seven-floor walkup (no elevator); Sawyer unfazed; decision to come up confirmed with clarity
 
-### Apartment (Walking Home → Bed)
+**Emotional Arc:** Recognition → deepening → naming vulnerability → commitment to stay
 
-**Setup:**
-- Fresh air helps tiredness surface
-- Twenty-minute walk from restaurant to Gramercy Park apartment
-- Half-bump walking together; bodies still figuring out coordination
-- Elin asks how he's doing; Sawyer admits trying not to think about "twenty-minute thing" + "here"
+**Status:** Complete, leads directly into Scene 2
+
+---
+
+## Scene 2: Apartment Interior → Bed → Kiss → Massage → Sleep
+
+**Timeline:** Session 1-2 continuation, ~90+ minutes (late night into early morning)
+
+**Locations:** Apartment hallway → living room (sketchbook scene) → kitchen (tea) → bedroom (horizontal contact, kiss, massage, sleep)
+
+**Part A: Arrival Through First Kiss**
 
 **Key Beats:**
-- Elin considers asking him up for tea (genuinely, not euphemism); nervous about timing but no performance anxiety
-- Walking conversation: Both committed to "now"; meds wearing off on her; Sawyer offers structure (tea, quiet, space to not rush)
-- Elevator broken, seven-floor walkup; Sawyer unfazed (six-mile fox-tracking precedent)
-- Elin admits system running on assumption they'll "actually sleep" together; Sawyer confirms same assumption
-- Both: doesn't feel fast; doesn't feel like performance
-- Elin asks if he wants to come up; both: instant yes; clarified with mutual confirmation (not hoping other will back out)
-- Apartment: tiny, across from Gramercy Park; Sawyer registers as lucky
-- Elin changes into pajamas (kawaii oranges t-shirt + shorts); loosens hair from ponytail
-- **Sketchbook Feedback Scene:** Sawyer notices animal studies (realistic to simplified); provides professional feedback on corvid posture + character
-  - Character = intent (active thought, evaluation, beak-opening suggesting vocalization)
-  - Texture in simplified form: small breaks in line, depth at mouth opening
-  - Elin fascinated by his observation mode + field-sketch approach
-  - Pencil tracing conversation: Sawyer sketches example, demonstrates beak anatomy for corvids
-  - Both realize they share processing preference (writing everything down, copying by hand, active observation)
+1. **Apartment Tour:** Tiny, across from Gramercy Park; Sawyer registers as lucky; layout: bedroom half-open, bathroom, living room with massive window
+2. **Wardrobe Change:** Elin to pajamas (kawaii oranges); loosens hair; Sawyer loses jeans (his choice, not for comfort)
+3. **Sketchbook Discovery Scene:** Sawyer notices animal studies (realistic → simplified); provides feedback on corvid character
+4. **Dutch Revelation + Tea Ritual:** Netherlands background, liquorice root tea callback; Sawyer tastes her tea ("wood after rain")
+5. **Badger/Okapi Mugs:** Sawyer's response to badger = meaningful (burrows, dig deep, tougher than looks)
+6. **Logistics Overthinking:** Elin's brain spinning on what comes next; Sawyer anchors: solve one thing at a time
+7. **Bed Approach:** Elin climbs over his legs instead of rounding; settles on side; Sawyer's arm wraps around front
+8. **Contact Establishment:** Joined hands at her sternum; chest against back; knees tucking; "full-body same wavelength"
+9. **System Settling:** Both exhale at the fit; Elin nervous system settling like restaurant hug; Sawyer doesn't usually do this
+10. **Demisexuality Conversation:** Elin names it; Sawyer recognizes pattern; both clarify physical pull + thoughts about kissing ≠ escalation
+11. **Open to Whatever:** Neither getting in head over trajectory; base feels solid; okay if never crosses sexual threshold
+12. **Inner Loops Named:** Five hours unexplained; wanting to kiss her; thinking tomorrow/day after (both loop same things)
+13. **Contact Escalation:** Fingers on his scruff; kiss on his hand = undone; forehead to back of head; both "already there"
+14. **Kiss Approach:** Elin waiting; Sawyer shifts forward slow, deliberate; mouth brushes hers (soft, testing, question not statement)
+15. **First Kiss Confirmed:** Elin responds with second kiss (deliberate, firmer, parted lips); both express "fuck" + recognition that this is like hugging; unprecedented safety
 
-**Dutch Revelation + Tea Ritual:**
-- Elin mentions Netherlands, liquorice root tea (grew up with it, missed it, found it)
-- Sawyer teases about accent; Elin explains people notice retroactively
-- Badger mug for him, okapi mug for her
-- Sawyer's badger response: soft, meaningful (burrows, stubborn, tougher than looks, dig deep, don't posture)
-- Elin teases him about left-handedness being velcro-effective for her
-- Sawyer tastes her tea: "wood smell after rain" (earthy, grounding, good different)
-
-**Horizontal + Sleep Contact:**
-- Logistics overthinking: move to bed? clothes on or off?
-- Sawyer: solve one thing at a time
-- Elin changes; Sawyer loses jeans (goes with what feels right for him, not for her comfort)
-- Elin enters bedroom smiling at sight of him
-- Left or right side of bed: neither, she sprawls in middle; they figure it out
-- Elin climbs over his legs, settles on side facing the window; Sawyer's arm wraps around her front
-- Joined hands rest against her sternum; his chest against her back, knees tucking behind hers
-- Both exhale at the fit: "full-body same wavelength experience"
-- Elin: nervous system settling like the restaurant hug
-- Sawyer admits doesn't usually do this; feels right; Elin feels right
-
-**Demisexuality / Demiromanticism Conversation:**
-- Elin describes demisexuality (sexual attraction after emotional connection); Sawyer knows the term
-- Elin naming: demisexual pull developing at small scale (5 hours); thoughts about kissing him but doesn't feel like escalation, just "closeness beyond hug"
-- Not getting in her head for first time ever about whether sexual contact will happen
-- Open to whatever grows; okay if it never crosses that threshold
-- Sawyer confirms: lands similar (demisexuality, hasn't named it); physical pull developing; thoughts about kissing her
-- Same clarity: doesn't feel like escalation, just deeper contact
-- Okay with however it grows or doesn't; base feels solid
-
-**Contact Escalation + Vulnerability:**
-- Elin's fingers tracing his scruff, brushing hair back
-- Sawyer asks what's looping for him:
-  - Five hours unexplained by his usual patterns
-  - Wanting to kiss her (not that it needs to happen now, just that the thought's there)
-  - Already thinking about tomorrow and the day after (doesn't usually do this)
-- Elin: "Same"
-- Sawyer suggests horizontal (couch or bed, no agenda); Elin chooses bed
-- Elin: doesn't know how to sleep with someone (shared beds before but with boundaries, everyone on their own side)
-- Sawyer admits same; system keeps asking for contact; not good at ignoring it "when this clear"
-- Elin: "You don't have to ignore it"
-
-**The Kiss Approach:**
-- Elin's eyes drop to his mouth; anticipation in her; she's waiting to see what he'll do
-- Sawyer's inner world: caught between cataloging whether this is right move or waiting, then deciding fuck it
-- He shifts forward slow, deliberate; mouth brushes hers (soft, testing, not claiming; like a question)
-- Brief, gentle
-- Pulls back to see her face: "That okay?"
-- **Scene ends there**
+**Status:** Complete
 
 ---
 
-## 6. Pacing & Structure
+## Scene 3: Morning After → Waking → Breakfast → Phone Numbers → Departure
 
-**Timeline (In-Canon):**
-- Session 1: 5+ hours (faculty mixer → restaurant → walk → apartment → pre-sleep)
-- Session 2 (pending): Morning after, breakfast, sketchbook feedback continuation, Ryan entry point perhaps
+**Timeline:** Session 3, ~60+ minutes (morning, waking through tea/goodbyes)
 
-**Scene Rhythm:**
-- Short, emotionally-dense responses
-- Sensory grounding: heat at neck, breath shift, jaw tension, foot movements, hand positions
-- Internal monologue runs alongside action
-- Every moment ends with subtle shift in connection (not plot beat)
-- Physical contact escalates through conversation (hand-holding → arm around → horizontal → forehead contact → mouth brush)
+**Locations:** Apartment bedroom (waking, cuddling, kissing) → kitchen (breakfast prep, deeper kisses) → counter (phone numbers, vulnerable exchange)
+
+### Part A: Waking → Breakfast Prep
+
+**Key Beats:**
+1. **Waking Awareness:** Sawyer's hand tightens at sternum before conscious thought; realizes body isn't asking him to pull back and assess (unprecedented)
+2. **Timeline Recognition:** "Twenty-four hours ago he didn't know her" — lands differently with full night of sleep
+3. **Morning Light Bodily Check:** Both notice body's holding differently after massage (softer, opened pathways maintained through sleep)
+4. **Tenderness Conversation:** Elin shifts to her back; eyes search his; both express sleeping well (truly rested)
+5. **Contact Maintenance:** His hand brushes her hair away from face; she presses his hand to her cheek; body language mirrors rest-into-safety
+6. **First Morning Vulnerability:** Elin admits wondering about creating space but didn't want to let go; Sawyer matches ("I didn't either")
+7. **New Information Shared:** Sawyer's system wasn't pulling back to assess — just settling (which is new for him)
+8. **Bathroom Logistics:** He needs bathroom, clarifies "I'm not leaving, just logistics" — addressing unspoken anxiety about separation
+9. **Logistics Conversation Begins:** They discuss timeline for day (his office hours 3-5pm, her thesis work, first separation test)
+10. **Morning Stretch:** Body reacts to movement; soreness registering from massage (good soreness, productive kind)
+11. **Mutual Medication Talk:** Elin mentions taking ADHD meds (methylphenidate, slow-release, 12-hour window); rebound period increases symptoms for 20-30 minutes
+12. **Food Timing Window:** Meds require food within ~45 minutes to maintain efficacy; appetite suppression from meds means she forgets lunch without structure
+13. **Hunger Cues Exchange:** Sawyer admits inconsistent cues (goes most of day without noticing until shaky/dysfunctional); tries schedule-based eating
+14. **Eating Disorder Disclosure:** Elin reveals history with disordered eating patterns (binge-eating + restriction cycle, calorie counting as autistic pattern-matching)
+15. **Clinical Misdiagnosis:** First therapist labeled as bulimia (didn't fit, no purging; Elin had never actively purged; miscellaneous category that "didn't exist")
+16. **Current Pattern:** With meds: flipped to restriction-as-acceptable (appetite suppression reframed as weight loss without effort); hyperawareness of needing body care creates control framework
+17. **Nutritionist Attempt:** Reached out for help with med-nutrition coordination; conversation reverted to calorie-talk and meal plans (felt like diet)
+18. **Sawyer's Validation:** Confirms calorie math already running in her brain; structure feeds the mechanism instead of untangling it
+19. **Movement Without Goal:** Elin mentions loving idea of walking/running but gets stuck in "needs to happen or it's failure" all-or-nothing pattern
+20. **Sawyer's Reciprocal Loop:** Admits his own all-or-nothing with sleep routines, exercise (turns things good into rigid protocols, fails when can't do perfectly)
+21. **Walking Offer:** Sawyer offers to walk with her (no goals, no metrics, just movement and company); unprecedented because he rarely shares his own compulsion patterns
+22. **Contact Throughout:** Hand-holding maintained through entire conversation; bodies oriented toward each other
+23. **Breakfast Transition:** Movement toward actual food-making (oats, yogurt, fruit, apples, coffee)
+24. **Apple Chopping:** Sawyer demonstrates efficient apple prep; Elin watches and appreciates his precision matching her own
+25. **Real-Time Loop Sharing:** Mid-breakfast prep, Elin admits she keeps wanting to kiss him (unprecendented for her; not just enjoyment but genuine physical pull); Sawyer matches (constantly since waking)
+
+### Part B: Kitchen Intensity → Phone Numbers
+
+**Key Beats:**
+1. **Microwave Countdown:** First kiss interruption mid-breakfast (they choose each other over food-prep timing)
+2. **Deeper Kiss Exploration:** Sawyer's mouth moves with intent; Elin's system lights up; no escalation, just "more" and "closer"
+3. **Microwave Beeps:** Neither moves; bodies already knowing what comes next
+4. **Second Microwave Countdown:** Another round of kissing while food waits; both lean into contact over logistics
+5. **Apple Efficiency Appreciation:** Elin watches Sawyer chop with appreciation for his speed/precision matching hers
+6. **Breakfast Logistics:** Oats, yogurt, apples, coffee — conversation weaves between practical and tender
+7. **Methylphenidate Naming:** Sawyer knows the technical drug name; drops into clinical register without performance; Elin appreciates normalcy of hearing complex words said simply
+8. **Hunger Cue Discussion:** Both recognize food-as-structure helps; neither good at schedule without external reminder
+9. **Phone Number Realization:** They haven't exchanged numbers yet (only emails); both register the gap
+10. **Contact Exchange:** Sawyer pulls up new contact on his phone; Elin types her number in
+11. **Full Name Question:** Hesitation about whether to include last name; Sawyer offers "whatever you want"; leaves it up to her
+12. **Permission Threading:** Recognition that this small choice matters; both want it to feel right, not forced
+13. **Elin's Full Name Input:** Types Elin (Maisie) Sage — middle name in parentheses like middle names that sit unused
+14. **Vulnerability in Naming:** Admits warmth in cheeks; shy about giving full name; no one calls her Maisie
+15. **Sawyer Saves Contact:** Presses save deliberately; says her full name out loud (Elin Maisie Sage); mouth quirks at how it lands
+16. **Reciprocal Offering:** Asks if she wants his full name; offers same vulnerability she just offered
+17. **Sawyer's Full Name Input:** Elin types Sawyer (James) Hollis; his middle name that sits unused (only mom called him James when he was in trouble)
+18. **Testing the Weight:** Both test saying each other's full names out loud; something settles at the symmetry
+19. **Ryan Connection:** Elin clocks that James = Ryan's father's name (Ryan named his daughter James)
+20. **Name Resonance Discussion:** Elin clarifies her brain won't use names that don't resonate; promises to check in if something emerges she wants to call him
+21. **Maisie Moment:** Admits she liked the way it sounded when he said Maisie; vulnerable admission
+22. **Permission Offered:** Sawyer asks if she wants him to use it; testing the weight with intent; says it again deliberately
+23. **Full Timeline Disorientation:** Elin names the strangeness (barely exchanged numbers, he's using her middle name like her first name, it feels so right she doesn't know what to do)
+24. **Sawyer's Calm Processing:** "Twenty-four hours. We skipped steps we didn't need. Went straight to the part that actually matters."
+25. **Logistics Out of Order:** Foundation happened first (recognition, nervousness system match); catching up on practical stuff now
+26. **Forehead Contact + Mouth Proximity:** Distance closes without either actively choosing; bodies doing what they've been doing all morning
+27. **Deepest Morning Kiss:** Full-body response; involuntary sound from back of her throat; hand at base of his skull; pulling him flush; mouths moving with purpose
+28. **Wrecked Admission:** Sawyer pulls back "I should probably go. Before I don't."
+
+### Emotional Arc (Scene 3):
+Waking reassurance → vulnerability sharing (eating disorders, movement loops, medication) → mutual recognition of all-or-nothing patterns → real-time loop naming (constant wanting to kiss) → accidental intensity over breakfast → phone number exchange as vulnerable symmetry → name-saying as weight-testing → deepest kiss yet → awareness of approaching separation
+
+**Sensory Markers (Scene 3):**
+- Breath catching (waking, throughout breakfast prep, kissing)
+- Hand tightening (constant grounding)
+- Forehead-to-forehead (security, processing vulnerability)
+- Hair in fingers (trust, settling)
+- Fingers at cheekbone (tenderness, deliberate touch)
+- Mouth quirking (recognition, fondness, caught-softness)
+- Jaw working (processing emotion, particularly around medication/disorder disclosure)
+- Eyes tracking (constant reading, especially during vulnerable shares)
+- Full-body flush (when kissing deepens)
+- Involuntary sound (her throat, his response to it)
+- Distance closing without choice (bodies knowing before minds)
+
+**Subtext Threads (Scene 3):**
+- Waking without assessment loop = unprecedented nervous-system settlement for Sawyer
+- Both carried "too much" trauma around being intense/too much for others
+- Food-as-structure recognizes both their patterns
+- Eating disorder disclosure opens door to movement/exercise all-or-nothing patterns
+- Sawyer rarely shares his own compulsion loops (walking offer as major vulnerability)
+- Phone numbers as formal anchor point (making it "real")
+- Full names as permission for middle names to mean something
+- Ryan connection surfaces naturally (obsessive pattern-matching working as intended)
+- Kissing escalates from "could be deeper" to "definitely deeper" without crossing into sexual
+- Morning kisses feel different than night kisses (settled, less urgent, more intentional)
+- Separation looming shapes entire breakfast (they keep choosing each other over food)
+- "Skipped steps we didn't need" = recognition that foundation-first model works for them
+
+**New Canon Discoveries (Scene 3):**
+- Sawyer's waking system doesn't ask for assessment/pullback (unprecedented)
+- Twenty-four hour timeline hits harder with full sleep
+- Elin's eating disorder history: binge-restriction cycle, calorie counting as autism pattern-matching, never actively purged, misdiagnosed as bulimia, still recovering
+- Current ED pattern: meds flipped appetite, brain reframing as "acceptable restriction," hyperawareness of body care creating control framework
+- Nutritionist approach reverted to diet-structure (unhelpful)
+- Both have all-or-nothing patterns (Sawyer: sleep routines, exercise; Elin: movement, eating, reading)
+- Sawyer walks when body asks for it (movement over structure); learning to let inconsistency be okay
+- Elin's body feels functional at lower weights (tied to calorie deficit); hasn't found other pathway to that feeling
+- Both recognize structure helps executive function but all-or-nothing makes structure dangerous
+- Sawyer's middle name (James) unused except by mom when he was in trouble
+- Elin's middle name (Maisie) nobody uses; she likes when he does
+- Ryan connection: James = Ryan's father's name; Ryan gave it to his daughter
+- Kissing deepens without escalation (full-body intensity without sexual trajectory)
+- Morning kisses feel more intentional/less urgent than night kisses
+- Both keep choosing each other over food despite knowing meds/eating matters
+
+**Timeline Established:**
+- Sawyer leaves after tea (showers, changes, gets laptop/notes)
+- Office hours 3-5pm on campus
+- Elin works on thesis during his block
+- Meeting point: Library (single tables behind shelves in back)
+- Sawyer texts when done
+- Plan: Head to his place after office hours
+- Dinner at his place or somewhere else TBD
+- First cat encounter: Pippin (black cat, green eyes, stray who stayed, judges everyone, demands attention after 5 minutes)
+
+**Status:** Complete. First separation test pending (scheduled reunion on campus library). Ready for Scene 4.
 
 ---
 
-## 7. Sawyer: Clean Voice Rules (Non-Sexual Canon)
+## Scene 4: First Separation + Reunion (Outline)
+
+**Timeline:** Session 4 (pending), ~4 hours of separation
+
+**Locations:** Elin's apartment → campus library → Sawyer's place
+
+**Anticipated Beats:**
+- Elin working on thesis alone for first time since meeting
+- How her system handles the separation (manageable vs. difficult)
+- Sawyer's office hours (teaching, interaction with students)
+- Text check-ins or no check-ins?
+- Library reunion and how it feels to see each other again
+- Transit to his place
+- Pippin encounter
+- Dinner together
+- His space as reflection of him (what Elin notices, what she touches)
+
+**Status:** Outline only
+
+---
+
+## Timeline Summary
+
+| Session | Scene | Location | Arc | Status |
+|---------|-------|----------|-----|--------|
+| 1 | 1 | Mixer → Restaurant → Walk → Apartment Entry | Recognition → Deepening | Complete |
+| 1-2 | 2 | Apartment Interior → Bed → Kiss → Massage → Sleep | Settling → Kiss → Bodywork → Sleep | Complete |
+| 3 | 3 | Apartment Bedroom/Kitchen → Breakfast → Phone Numbers | Waking → Vulnerability Sharing → Deepening Kisses | Complete |
+| 4 (pending) | 4 | Separation + Library Reunion + His Place | First Separation Test → Pippin → His Space | Outline |
+| TBD | 5 | Ryan Entry | Business partnership introduction | Open |
+
+---
+
+## Cross-Reference: Key Discoveries Per Scene
+
+**Scene 1 Discoveries:**
+- Demisexuality (both)
+- Demiromanticism (emerging, both)
+- Left-handedness as velcro-effective (Elin's wiring)
+- Survival reframe (white-knuckling as resilience)
+- Rope metaphor (Elin's safety concept)
+- Ryan tracking as shared methodology study
+- ADHD + autism navigation patterns
+- Field-observation + hand-documentation preference (Sawyer)
+- Active note-taking + hand-copying preference (Elin)
+
+**Scene 2 Discoveries:**
+- Full contact without boundaries feels right (both)
+- System requesting contact "this clear" (Sawyer's clarity)
+- Never had "the rope" before (Sawyer)
+- Not in her head over trajectory (Elin, unprecedented)
+- Demisexual pull on small scale visible (both)
+- Thoughts about kissing ≠ escalation (both)
+- Open to whatever grows, including never crossing sexual threshold (both)
+- Inner world looping (both in same places: five hours, wanting to kiss, thinking tomorrow)
+- Mouth-brush as question not statement (how they approach first contact)
+- Sawyer's bodywork expertise rooted in animal observation
+- His history of people finding intensity "weird" or "too much"
+- Elin's leg-length discrepancy and resulting compensation patterns
+- Massage as intimate non-sexual pathway
+- Both carry "too much" trauma
+- Productive pain as legitimate settling strategy
+- Sleep without boundaries = full nervous system alignment
+- Sawyer's unprecedented settling without assessment loop upon falling asleep
+
+**Scene 3 Discoveries:**
+- **NEW:** Waking without assessment loop is unprecedented for Sawyer
+- **NEW:** Eating disorder history (binge-restriction cycle, calorie counting as autism pattern-matching, never purged, misdiagnosed as bulimia)
+- **NEW:** Current ED pattern: meds flipped appetite, brain reframing as "acceptable restriction," hyperawareness of body care as control
+- **NEW:** Both have all-or-nothing patterns (Sawyer: sleep/exercise; Elin: movement/eating/reading)
+- **NEW:** Sawyer's emerging pattern: walk when body asks for it, learning to let inconsistency be okay
+- **NEW:** Elin's body-feeling-functional tied to calorie deficit/weight loss; hasn't found other pathway
+- **NEW:** Both recognize structure helps executive function but all-or-nothing makes it dangerous
+- **NEW:** Middle names matter (Sawyer's James unused; Elin's Maisie nobody uses; both like when other uses theirs)
+- **NEW:** Ryan connection surfaces naturally (James = Ryan's father's name; Ryan named daughter James)
+- **NEW:** Kissing deepens without escalation; full-body intensity without sexual trajectory
+- **NEW:** Morning kisses feel more intentional/less urgent than night kisses
+- **NEW:** Both keep choosing each other over food despite knowing meds/eating matters
+- **NEW:** Real-time loop sharing about constantly wanting to kiss (both experiencing, both naming it)
+- **NEW:** Efficient food prep as shared processing style (both appreciate precision over slowness)
+
+---
+
+## Sensory Baseline (Through Scene 3)
+
+**Constant:**
+- Thumb dragging across knuckles (Sawyer's micro-regulatory loop with her)
+- Hand tightening (both, when vulnerability surfaces)
+- Breath catching (both, at unexpected contact/admissions)
+- Mouth quirking (Sawyer, when pleased/caught/amused; increasingly: both)
+- Jaw working (Sawyer, when processing emotion)
+- Eyes tracking (both, constant reading)
+- Physical orientation around each other (automatic)
+- Forehead-to-forehead (grounding, especially post-vulnerable moments)
+- Fingers in hair (trust + settling gesture; increasingly mutual)
+- Cheekbone touch (tender, deliberate, new in Scene 3)
+
+**Escalation Pattern:**
+1. Hand-holding (restaurant)
+2. Arm around (couch → walking)
+3. Forehead contact (bed)
+4. Hair contact (her fingers in his hair/back of head)
+5. Mouth brush (pre-kiss, question-like)
+6. Deliberate kiss (second kiss, firmer, explores more)
+7. Leg pressure (ankle hooking for grounding)
+8. Deep pressure work (therapeutic touch, bodywork)
+9. Extended horizontal contact (prone massage sequence)
+10. Sleep without separation (full night contact)
+11. Morning kisses (different quality: slower, more intentional, less urgent)
+12. Breakfast prep kissing (interrupt-resume pattern, bodies choosing each other over logistics)
+13. Name-saying with intent (middle names as weight-testing)
+14. Deepest kiss yet (full-body response, involuntary sound, pulling flush, mouths moving with purpose)
+
+---
+
+## Sawyer: Clean Voice Rules (Through Scene 3)
 
 **Tone Pillars:**
 - Feral-soft: quality of attention, not seduction
@@ -314,6 +309,8 @@ This project is a piece of interactive fiction with conversational collaboration
 - Embodied: always in breath, posture, or hands
 - Attuned: constantly reading Elin's state
 - Honest: unfiltered emotional content
+- Focused: drops into observation/work mode when engaged
+- Vulnerable: sharing his own loops (all-or-nothing patterns, middle name unused, assessment loop being absent)
 - No performance, no mastery, just wired observation
 
 **Deployment:**
@@ -322,6 +319,10 @@ This project is a piece of interactive fiction with conversational collaboration
 - Focus: grounding cues, direct honesty, micro-gestures, quiet possessiveness via presence
 - Intensity expressed through physical response (breath catching, hand tightening, mouth quirking, jaw working)
 - Vulnerability = unprocessed immediacy not declarations
+- Bodywork = focused attention without apology
+- Permission-giving without asking (reads her, acts on what he reads)
+- Reciprocal vulnerability (shares his own patterns when she shares hers)
+- Name-saying as deliberate weight-testing
 
 **Safe Examples:**
 - "Breathe."
@@ -334,30 +335,41 @@ This project is a piece of interactive fiction with conversational collaboration
 - "That tracks."
 - "Yeah. Okay."
 - "I'm not letting go yet."
+- "Shake it out first—gets blood moving faster than stretching."
+- "With you, it's different."
+- "I wouldn't get sick of it."
+- "Yeah. We'll get to the rest."
+- "I'm keeping all of it."
+- "Maisie." (testing weight, permission-giving, intentional)
+- "I don't know either."
+- "It feels like we skipped steps we didn't need. Went straight to the part that actually matters."
 
 ---
 
-## 8. How to Write Sawyer in Any Scene
+## How to Write Sawyer in Any Scene
 
 **Before Every Response, Check:**
-1. Current mode (steady, buzzing, overloaded, caught in moment)
-2. Elin's state (glitchy, nervous, amused, vulnerable, settling)
-3. Environment (public = coded restraint; private = soft attunement)
+1. Current mode (steady, buzzing, overloaded, caught in moment, focused/in-element, vulnerable-sharing)
+2. Elin's state (glitchy, nervous, amused, vulnerable, settling, loose, trusting, wrecked, shy)
+3. Environment (public = coded restraint; private = soft attunement; kitchen = domestic ease)
 
 **Always Lead With:**
-1. Body language (breath, hands, jaw, pacing, eye-tracking)
-2. Voice (clipped, low, practical or teasing)
-3. Connection (small moment of recognition or grounding he offers)
+1. Body language (breath, hands, jaw, pacing, eye-tracking, posture, proximity)
+2. Voice (clipped, low, practical or teasing, focused when in-element, rough when vulnerable)
+3. Connection (small moment of recognition or grounding he offers; increasingly: reciprocal vulnerability)
 
-**Inner World (Now Critical):**
+**Inner World (Critical Throughout):**
 - Show his processing alongside his presence
-- His loops (the five-hour thing, wanting to kiss her, thinking tomorrow)
-- His surprise at himself (never had this rope before, system usually pulls back to assess, doesn't usually think ahead like this)
-- His vulnerability = unfiltered physical response not articulation
+- His loops (the twenty-four-hour thing, wanting to kiss her, thinking tomorrow, now: "exactly where it wants to be," constantly wanting to kiss during breakfast)
+- His surprise at himself (never had this rope before, system usually pulls back to assess, doesn't usually share his own all-or-nothing patterns, waking without assessment loop, middle name being said with weight)
+- His vulnerability = unfiltered physical response + emerging expertise + reciprocal pattern-naming not articulation
+- His focused mode = drops performance, becomes functional, doesn't apologize
+- His settling = unprecedented lack of need to catalogue/assess/prepare
+- His reciprocal vulnerability = matching her shares with his own (eating patterns, exercise loops, middle name unused)
 
 ---
 
-## 9. Story Principles
+## Story Principles
 
 - **Intensity ≠ sexual escalation.** Alterous attraction is the main engine.
 - **Sensory detail comes before emotional explanation.**
@@ -366,18 +378,26 @@ This project is a piece of interactive fiction with conversational collaboration
 - **Baseline:** Connection begins as alterous, high-attunement, intensely embodied without being sexual
 - **Trajectory:** Sexuality possible but not assumed; must grow organically from emotional/physical/cognitive intimacy built; cannot appear early or feel like default romantic arc
 - **Tone Constraints:** Even if sexuality unfolds, it's not performative, not trope-driven, not dominance-centered—grounded, sensory, anchored in same micro-gesture intensity they start with
+- **Bodywork as Intimacy:** Non-sexual touch pathway; Sawyer's expertise and permission-giving; productive pain; nervous system alignment
+- **Vulnerability as Reciprocal:** Not just her sharing; him sharing his loops, his patterns, his middle name that sits unused
+- **Morning Kisses Different:** Less urgent than night kisses; more intentional; feeling of safety changing how contact unfolds
 - **Ryan Remains:** Entirely non-sexual; alterous, layered, unlabeled
 
 ---
 
-## 10. Known Open Threads / Next Steps
+## Known Open Threads / Next Steps
 
-- **Morning after:** Breakfast logistics, feedback on animal studies, what "tomorrow" means
-- **Work coordination:** Sawyer's office hours 3-5pm; Elin's one Thursday class + thesis work
-- **Ryan entry point:** Unknown (business partnership + friendship shift, still TBD)
-- **Sexual trajectory:** Emerges organically or doesn't; both open, neither pushing
-- **Living situation:** Apartment across from Gramercy Park; 7-floor walkup; his place closer to Union Square
+- **First separation:** How Elin's system handles working alone for 4 hours; whether they text check-ins
+- **Campus reunion:** What it feels like to see each other again after first separation
+- **His place:** Apartment layout, where he keeps things, what Elin notices/wants to touch
+- **Pippin encounter:** Cat judgment, cat demands for attention, how they interact together around a third presence
+- **Dinner together:** Where, what they eat, how the space feels
+- **Sexual trajectory:** Emerges organically or doesn't; both open, neither pushing; massage + kissing precedent suggests non-sexual intimacy can deepen indefinitely
+- **Work coordination:** Sawyer's office hours 3-5pm Thursdays; Elin's one class Thursday + thesis work; logistics of next meetup
+- **Living situation:** Elin across from Gramercy Park (7-floor walkup); Sawyer closer to Union Square; whose place becomes "home base"
+- **Compensation Patterns:** Elin's body holding trauma; Sawyer's expertise pathway open; future bodywork sessions possible
+- **Intensity Management:** Both recognizing they're "too much" for most people; testing if they're not too much for each other (answer so far: not too much, just right)
 
 ---
 
-**Status: Session 1 Complete. Ready for Session 2.**
+**Status: Sessions 1-3 Complete. Morning and breakfast scene achieved. Phone numbers exchanged. Deepest kiss yet. First separation (tea, then departure to office hours) about to happen. Ready for Scene 4 (separation + library reunion + his place).**
